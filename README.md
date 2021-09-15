@@ -1,1 +1,1 @@
-# Applied-Scripting-Languages
+# Applied Scripting Languages
